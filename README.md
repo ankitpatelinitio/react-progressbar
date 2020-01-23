@@ -10,6 +10,8 @@
 
 > This npm is used to generate progressbar based on percentage
 
+<img src="images/progress.png">
+
 ## Installation
 
 ```sh
